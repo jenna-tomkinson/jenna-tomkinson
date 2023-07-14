@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I am a young computational biologist 👩🏻‍💻, just trying to find her place in the world 🌎
 
 - 🔭 I’m currently working on multiple image-based analysis projects in the [Gregory P. Way lab](https://github.com/WayScience).
-- 🌱 I’m currently learning how to grow my knowledge of working with Python and R. I specifically want to grow my skills in biostatistics and machine learning.
+- 🌱 I’m currently learning how to grow my knowledge of Python and R. One of my biggest goals is improving my biostatistics and machine learning skills.
 
-[![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenna-tomkinson)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=highcontrast)
+[![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenna-tomkinson&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark)
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
