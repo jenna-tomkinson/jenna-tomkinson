@@ -24,8 +24,8 @@ I am a young computational biologist 👩🏻‍💻, just trying to find her pl
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
-<a href="[twitter_link](https://twitter.com/jenna_tomkinson)" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="" height="30" width="40" /></a>
-<a href="[linkedin_link](https://www.linkedin.com/in/jenna-tomkinson/)" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/jenna_tomkinson" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jenna-tomkinson/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ---
