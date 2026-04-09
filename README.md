@@ -5,7 +5,7 @@ I am a computational biologist 👩🏻‍💻, just trying to find her place in
 - 🔭 I’m currently working on multiple image-based analysis projects in the [Gregory P. Way lab](https://github.com/WayScience).
 - 🌱 I’m currently learning how to grow my software development. One of my biggest goals is to improve my biostatistics and machine learning skills.
 
-For more information, please check out my [website](jenna-tomkinson.github.io)!
+For more information, please check out my [**website**](https://jenna-tomkinson.github.io)!
 
 [![Jenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenna-tomkinson&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
